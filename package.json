@@ -1,6 +1,6 @@
 {
   "name": "docker-security-dashboard",
-  "homepage": "http://gotech-io.github.io/docker-security-dashboard",
+  "homepage": "http://ds-mock.gotech.io/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
